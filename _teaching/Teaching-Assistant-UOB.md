@@ -6,6 +6,7 @@ permalink: /teaching/Teaching-Assistant-UOB
 venue: "University of Bristol"
 date: 2019-09-01
 location: "Bristol, UK"
+excerpt: ""
 ---
 
 Teaching Assistant for following modules in Computer Science:
