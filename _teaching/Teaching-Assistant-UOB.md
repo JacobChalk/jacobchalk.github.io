@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant - The University of Bristol (2019-present)"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Modules"
 permalink: /teaching/Teaching-Assistant-UOB
 venue: "University of Bristol"
 date: 2019-09-01

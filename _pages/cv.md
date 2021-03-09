@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Full CV Available [here](https://jacobchalk.github.io/files/Cirriculum_Vitae.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
