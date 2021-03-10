@@ -16,11 +16,11 @@ Education
 * Working towards MEng in Computer Science
 * Undertaking PhD with Dr. Dima Damen in September 2021
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
