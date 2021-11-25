@@ -10,6 +10,6 @@ redirect_from:
 
 About Me
 ======
-I'm a fourth year integrated masters student, currently studying Computer Science (MEng) at the University of Bristol. The areas of research I express particular interests in are: Deep Learning, Machine Learning, Computer Vision and Computer Graphics. In particular, I have a keen interest in generative methods of data, which can be a key tool to utilise to resolve imbalances in datasets. My current working title for my thesis is: "Video GANs for Human-Object Interactions" which should be a precursor for a PhD I will be undertaking in September working with Dr. Dima Damen. 
+I'm a first year PhD student at the University of Bristol, supervised by Prof. Dima Damen. I am studying Computer Vision with a particular focus on managing and working with multi-modal data, specifically audio-visual. The areas of research I express particular interests in are: Deep Learning, Machine Learning, Computer Vision and Computer Graphics. I have recently complete my MEng in Computer Science at the University of Bristol, where my thesis is: "Video GANs for Human-Object Interactions" scored highly. 
 
-I have experience with many programming languages, such as: C, C++, C#, Java, Javascript, Python, Flutter and Haskell with larger experience and proficiency in Python and C++.
+I have experience with many programming languages, such as: C, C++, C#, Java, Javascript, Python, Flutter and Haskell with larger experience and proficiency in Python, Javascript and C++.
