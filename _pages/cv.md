@@ -13,8 +13,8 @@ Full CV Available [here](https://jacobchalk.github.io/files/Curriculum_Vitae.pdf
 
 Education
 ======
-* Working towards MEng in Computer Science
-* Undertaking PhD with Dr. Dima Damen in September 2021
+* MEng Computer Science with First Class Honours from the University of Bristol
+* Currently undertaking a PhD in Computer Science with Prof. Dima Damen
 
 <!-- Publications
 ======
