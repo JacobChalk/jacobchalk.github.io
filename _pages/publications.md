@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Coming soon... (Hopefully)
+Coming soon...
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
