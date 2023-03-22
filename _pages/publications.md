@@ -5,14 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
+<ins><b>Epic-Sounds: A Large-scale Dataset of Actions That Sound</b></ins>
+Jaesung Huh, <b>Jacob Chalk</b>, Evangelos Kazakos, Dima Damen and Andrew Zisserman.
+<i>arXiv</i>
 
-Coming soon...
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+* [Paper](https://arxiv.org/abs/2302.00646)
+* [Code](https://github.com/epic-kitchens/epic-sounds-annotations)
