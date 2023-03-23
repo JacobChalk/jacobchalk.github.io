@@ -1,0 +1,16 @@
+---
+title: "Epic-Sounds: A Large-scale Dataset of Actions That Sound"
+collection: publications
+permalink: /publication/EPIC-Sounds
+excerpt: 'We introduce EPIC-SOUNDS, a large-scale dataset of audio annotations capturing temporal extents and class labels within the audio stream of the egocentric videos'
+date: 2023-02-01
+venue: 'ArXiv'
+paperurl: 'https://arxiv.org/pdf/2302.00646.pdf'
+citation: 'Jaesung Huh, Jacob Chalk, Evangelos Kazakos, Dima Damen and Andrew Zisserman (2023). &quot;Epic-Sounds: A Large-scale Dataset of Actions That Sound&quot; <i>ArXiv</i>. 1(1).'
+---
+
+We introduce EPIC-SOUNDS, a large-scale dataset of audio annotations capturing temporal extents and class labels within the audio stream of the egocentric videos. We propose an annotation pipeline where annotators temporally label distinguishable audio segments and describe the action that could have caused this sound. We identify actions that can be discriminated purely from audio, through grouping these free-form descriptions of audio into classes. For actions that involve objects colliding, we collect human annotations of the materials of these objects (e.g. a glass object being placed on a wooden surface), which we verify from visual labels, discarding ambiguities. Overall, EPIC-SOUNDS includes 78.4k categorised segments of audible events and actions, distributed across 44 classes as well as 39.2k non-categorised segments. We train and evaluate two state-of-the-art audio recognition models on our dataset, highlighting the importance of audio-only labels and the limitations of current models to recognise actions that sound.
+
+[Project Webpage](https://epic-kitchens.github.io/epic-sounds/)
+[Download paper here](https://arxiv.org/pdf/2302.00646.pdf)
+[Source code available here](https://github.com/epic-kitchens/epic-sounds-annotations)
