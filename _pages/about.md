@@ -14,4 +14,4 @@ I am a second year PhD student at the University of Bristol, supervised by Prof.
 
 I have experience with many programming languages, such as: C, C++, C#, Java, Javascript, Python, Flutter and Haskell with larger experience and proficiency in Python, Javascript and C++.
 
-Funded by the Engineering and Physical Sciences Research Council (ESPRC).
+Funded by the Engineering and Physical Sciences Research Council (EPSRC).
