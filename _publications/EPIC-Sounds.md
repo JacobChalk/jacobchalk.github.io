@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/EPIC-Sounds
 excerpt: 'We introduce EPIC-SOUNDS, a large-scale dataset of audio annotations capturing temporal extents and class labels within the audio stream of the egocentric videos'
 date: 2023-02-01
-venue: '2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)'
+venue: 'IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)'
 paperurl: 'https://arxiv.org/pdf/2302.00646.pdf'
 ---
 
