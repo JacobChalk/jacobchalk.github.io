@@ -34,4 +34,4 @@ Teaching Assistant for following modules in Computer Science:
 - Assist students in weekly timetabled lab slots
 - Guide students towards solutions on issues they are stuck on, while encouraging them to gain a better understanding of the concepts/underlying maths so that they are able to translate it to code
 - Assist with checking student submissions and whether they have met certain criteria from the mark scheme
-- Implement sample solution based on selected paper to re-implement for the Coursework
+- Implement sample solution based on selected paper to reimplement for the coursework
