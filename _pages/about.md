@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am a second year PhD student at the University of Bristol, supervised by Prof. Dima Damen. I am studying egocentric video understanding, in particular managing and working with multi-modal data, specifically audio-visual. The areas of research I express particular interests in are: multi-modal deep learning, egocentric video understaing (action recognition/detection). I completed my MEng in Computer Science at the University of Bristol, achieving a first class honours, where my thesis is: "Video GANs for Human-Object Interactions" scored highly.
+I am a second year PhD student at the University of Bristol, supervised by Prof. Dima Damen. I am studying egocentric video understanding, in particular managing and working with multi-modal data, specifically audio-visual. The areas of research I express particular interests in are: multi-modal deep learning, egocentric video understaing (action recognition/detection). I completed my MEng in Computer Science at the University of Bristol, achieving a first class honours, where my thesis is: "Video GANs for Human-Object Interactions" scored highly. Alongside my research I have experience in teaching assistance for University modules I performed well in.
 
 I have experience with many programming languages, such as: C, C++, C#, Java, Javascript, Python, Flutter and Haskell with larger experience and proficiency in Python, Javascript and C++.
 
