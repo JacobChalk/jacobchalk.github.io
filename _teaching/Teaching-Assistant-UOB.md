@@ -27,10 +27,11 @@ Teaching Assistant for following modules in Computer Science:
 #### Roles:
 - Mentor two student group project teams
 - Offer advice and potential solutions towards issues that the team may face
-- Organise regular meetings to monitor progress, team harmony and performance based on the given mark scheme, as well as insights on potential implementation tricks/solutions from experience
+- Organise regular meetings to monitor progress, team harmony and performance based on the given mark scheme
 
 ### [Fourth Year Module - Applied Deep Learning (September 2021 - Present)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMSM0045 "COMSM0045 - Applied Deep Learning")
 #### Roles:
 - Assist students in weekly timetabled lab slots
 - Guide students towards solutions on issues they are stuck on, while encouraging them to gain a better understanding of the concepts/underlying maths so that they are able to translate it to code
 - Assist with checking student submissions and whether they have met certain criteria from the mark scheme
+- Implement sample solution based on selected paper to re-implement for the Coursework
