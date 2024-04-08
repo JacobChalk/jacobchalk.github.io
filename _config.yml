@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Jacob Chalk"
 title_separator          : "-"
 name                     : &name "Jacob Chalk"
-description              : &description "Second Year PhD Student at the University of Bristol"
+description              : &description "Postgraduate Researcher at the University of Bristol"
 url                      : https://jacobchalk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JacobChalk/jacobchalk.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Jacob Chalk"
   avatar           : "profile_picture.jpg"
-  bio              : "Second Year PhD Student at the University of Bristol"
+  bio              : "Postgraduate Researcher at the University of Bristol"
   location         : "Salisbury/Bristol"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=FPugmicAAAAJ&hl=en&oi=sra"
-  email            : "jacob.chalk@bristol.ac.uk" 
-  researchgate     :  
+  email            : "jacob.chalk@bristol.ac.uk"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      :
   lastfm           :
   linkedin         : "jacob-chalk"
   orcid            : "https://orcid.org/0000-0002-9751-8660"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "jacobchalkie"
