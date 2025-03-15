@@ -139,11 +139,11 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-  color: #386BBD;
+  color: rgb(220,148,148)
 }
 
 a:hover, a:focus, a:active {
-  color: #274e78;
+  color: rgb(220,148,148)
 }
 
 .modal-dialog{
