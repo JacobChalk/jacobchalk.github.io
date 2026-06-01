@@ -57,7 +57,7 @@
                 
                 <div class="social-links">
                     <a href="static/pdfs/cv.pdf" title="CV" target="_blank"><i class="fa-solid fa-file-lines"></i></a>
-                    <a href="mailto:jacob.chalk@bristol.ac.uk" title="Email" target="_blank"><i class="fa-solid fa-envelope"></i></a>
+                    <a href="#" id="email-link" title="Email"><i class="fa-solid fa-envelope"></i></a>
                     <a href="https://scholar.google.com/citations?user=FPugmicAAAAJ&hl=en" title="Google Scholar" target="_blank"><i class="ai ai-google-scholar"></i></a>
                     <a href="https://github.com/jacobchalk" title="GitHub" target="_blank"><i class="fa-brands fa-github"></i></a>
                     <a href="https://x.com/jacobchalkie" title="Twitter" target="_blank"><i class="fa-brands fa-twitter"></i></a>
@@ -376,6 +376,15 @@
 
             // Initialise Research Toggle
             setupToggle('toggleResearchBtn', '.research-overflow', 'View All Publications', 'Show Less');
+
+            // --- Email Obfuscation ---
+            const emailLink = document.getElementById('email-link');
+            if (emailLink) {
+                const email = 'amFjb2IuY2hhbGtAYnJpc3RvbC5hYy51aw=='
+                
+                // Construct the mailto link dynamically
+                emailLink.setAttribute('href', 'mailto:' + atob(email));
+            }
 
         });
     </script>
