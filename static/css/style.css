@@ -136,15 +136,29 @@ section {
     hyphens: auto;
 }
 
-.hero-image-container {
+.hero-profile-wrapper {
     flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 0.5rem;
+}
+
+.hero-image-container {
     width: 250px;
     height: 250px;
     border-radius: 50%;
     overflow: hidden;
     border: 4px solid var(--surface-colour);
     box-shadow: 0 0 30px rgba(59, 130, 246, 0.2);
-    margin-top: 0.5rem; 
+}
+
+.hero-email {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    font-weight: 600;
+    text-align: center;
 }
 
 .hero-image-container img {
@@ -512,15 +526,18 @@ section {
         word-wrap: break-word;
     }
 
-    .social-links {
-        justify-content: center;
-        flex-wrap: wrap;
+    .hero-profile-wrapper {
+        margin-bottom: 1rem;
     }
 
     .hero-image-container {
         width: 200px;
         height: 200px;
-        margin-bottom: 1rem;
+    }
+
+    .social-links {
+        justify-content: center;
+        flex-wrap: wrap;
     }
 
     .paper-card { flex-direction: column; }
